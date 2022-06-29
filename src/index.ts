@@ -1,6 +1,6 @@
-import { funcA } from '@/modules/funcA.js';
-import { funcB } from '@/modules/funcB.js';
-import { funcC } from '@/modules/funcC.js';
+import { funcA } from '@modules/funcA.js';
+import { funcB } from '@modules/funcB.js';
+import { funcC } from '@modules/funcC.js';
 
 // 実行時引数を受け取る
 const name = process.argv[2] || '名無し';
