@@ -4,5 +4,5 @@
  * @returns 
  */
 export function funcA (name:string): string{
-  return `名前：${name}`;
+	return `名前：${name}`;
 }
