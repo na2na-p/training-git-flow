@@ -6,3 +6,5 @@
 export function funcB(age: string): string {
 	return `年齢: ${age}歳`;
 }
+
+/* test */
