@@ -20,7 +20,11 @@
 			"extensions": [
 				"dbaeumer.vscode-eslint",
 				"mhutchie.git-graph",
-				"GitHub.copilot"
+				"GitHub.copilot",
+				"esbenp.prettier-vscode",
+				"ms-vscode-remote.remote-containers",
+				"vector-of-bool.gitflow",
+				"editorconfig.editorconfig"
 			]
 		}
 	},
