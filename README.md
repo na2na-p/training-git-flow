@@ -1,3 +1,4 @@
 # training-git-flow
 
-GitFlowで何かやっていくリポジトリ
+GitFlowで何かやっていくリポジトリ  
+finブランチが最終形のサンプルになります
